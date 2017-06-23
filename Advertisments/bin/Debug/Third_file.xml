@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AdvertismentsList>
+  <Advertisment>
+    <NameOfAd>Побутова хiмiя</NameOfAd>
+    <TelNumber>0687653411</TelNumber>
+    <ServiceType>Комерція</ServiceType>
+    <Price>34$</Price>
+    <Who>Олег</Who>
+  </Advertisment>
+  <Advertisment>
+    <NameOfAd>Набiр студентiв в унiверситет</NameOfAd>
+    <TelNumber>0996843288</TelNumber>
+    <ServiceType>Навчання</ServiceType>
+    <Who>Iгор</Who>
+  </Advertisment>
+</AdvertismentsList>

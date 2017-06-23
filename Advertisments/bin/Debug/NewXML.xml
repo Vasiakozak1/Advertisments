@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AdvertismentsList>
+  <Advertisment>
+    <NameOfAd>Продаж птахiв</NameOfAd>
+    <ServiceType>Комерція</ServiceType>
+    <Price>231$</Price>
+    <Person>
+      <Name>Олег</Name>
+      <Email>blabla@mymail.ua</Email>
+      <PhoneNumber>+380685864200</PhoneNumber>
+    </Person>
+  </Advertisment>
+  <Advertisment>
+    <NameOfAd>Чернiвецький сайт знайомств</NameOfAd>
+    <ServiceType>Знайомства</ServiceType>
+    <Person>
+      <Name>Дмитро</Name>
+      <Email>moyaposhta@mymail.ua</Email>
+      <PhoneNumber>0963246776</PhoneNumber>
+    </Person>
+  </Advertisment>
+  <Advertisment>
+    <NameOfAd>Вiкна, дверi</NameOfAd>
+    <ServiceType>Комерція</ServiceType>
+    <Price>344$</Price>
+    <Person>
+      <Name>Марiя</Name>
+      <Email>nardisp@df.ua</Email>
+      <PhoneNumber>07664870932</PhoneNumber>
+    </Person>
+  </Advertisment>
+</AdvertismentsList>

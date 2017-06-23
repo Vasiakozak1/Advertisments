@@ -1,0 +1,19 @@
+[{
+	"NameOfAd": "Продаж птахiв",
+	"Price": "231$",
+	"ServiceType": "Комерція",
+	"Person": {
+		"Name": "Олег",
+		"Email": "blabla@mymail.ua",
+		"PhoneNumber": "+380685864200"
+		}
+},
+{
+	"NameOfAd": "Чернiвецький сайт знайомств",
+	"ServiceType": "Знайомства",
+	"Person": {
+		"Name": "Дмитро",
+		"Email": "moyaposhta@mymail.ua",
+		"PhoneNumber": "0963246776"
+		}
+}]
